@@ -1,5 +1,3 @@
-'''moni hAS been trolled , filled the form late and has been forced to take distributed computing.Bechara aa k DIP ki lab mein beth k
-happens moni , mujhse DIP le lo aur NS de do :)'''
 
 from PIL import Image
 import numpy as np
